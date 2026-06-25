@@ -1,0 +1,1 @@
+document.querySelectorAll('.card').forEach(c=>{c.onmouseenter=()=>c.style.boxShadow='0 15px 40px rgba(0,0,0,.15)';c.onmouseleave=()=>c.style.boxShadow='0 10px 25px rgba(0,0,0,.08)';});
