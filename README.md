@@ -1,0 +1,2 @@
+# amora-studios
+Static website 
